@@ -1,0 +1,129 @@
+Account,Status,Source_Row,Month_1,Month_2,Month_3,Month_4,Month_5,Month_6,Month_7,Month_8,Month_9,Month_10,Month_11,Month_12,Total
+property name,Layer 1 Item,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+address,Layer 1 Item,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accrual Basis,Layer 1 Item,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jun 2024 - May 2025,Layer 1 Item,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Income Statement: Property Look-Up Code,Layer 1 Item,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Revenue,Layer 1 Item,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Student Rent,Layer 1 Item,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Revenue|Net Student Rent,Layer 1 Item,9,4000.0,1.0,553721.0,0.0,0.0,4.0,105425.0,3101.0,1.0,2.0,1.0,1.0,666257.0
+Net Income|Net Operating Income|Revenue|Net Student Rent,Layer 1 Item,11,4020.0,1.0,554040.0,3.0,0.0,4.0,105425.0,3101.0,1.0,0.0,0.0,0.0,666595.0
+Net Income|Net Operating Income|Revenue|Net Student Rent,Layer 1 Item,12,4030.0,1.0,554039.0,4.0,0.0,4.0,105425.0,3101.0,1.0,1.0,1.0,1.0,666608.0
+Net Income|Net Operating Income|Revenue|Net Student Rent,Layer 1 Item,13,4040.0,1.0,553726.0,5.0,0.0,4.0,105425.0,3101.0,1.0,2.0,1.0,2.0,666308.0
+Net Income|Net Operating Income|Revenue|Net Student Rent,Layer 1 Item,14,4050.0,1.0,554514.0,6.0,0.0,4.0,105425.0,3101.0,0.0,1.0,1.0,1.0,667104.0
+507808.57000000007,Layer 1 Item,15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other Income,Layer 1 Item,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,18,4100.0,1.0,553693.0,0.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,0.0,666326.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,19,4120.0,1.0,553695.0,2.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,0.0,666350.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,20,4140.0,1.0,554036.0,4.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,666714.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,21,4141.0,1.0,1798600.0,5.0,0.0,4.0,105424.0,3101.0,0.0,0.0,0.0,0.0,1911276.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,22,4145.0,1.0,553708.0,6.0,0.0,4.0,105424.0,3101.0,0.0,0.0,1.0,0.0,666390.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,23,4190.0,1.0,554029.0,14.0,0.0,4.0,105424.0,3101.0,0.0,0.0,0.0,2.0,666765.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,24,4200.0,1.0,554028.0,15.0,0.0,4.0,105424.0,3101.0,0.0,1.0,0.0,1.0,666775.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,25,4240.0,1.0,553712.0,20.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,666506.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,26,4260.0,1.0,554022.0,22.0,0.0,4.0,105424.0,3101.0,0.0,0.0,0.0,1.0,666835.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,27,4270.0,1.0,553706.0,23.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,666533.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,29,4310.0,1.0,554019.0,29.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,666892.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,30,4320.0,1.0,553722.0,30.0,0.0,4.0,105424.0,3101.0,1.0,1.0,0.0,1.0,666605.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,31,4342.0,1.0,554015.0,34.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,666925.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,32,4350.0,1.0,554014.0,36.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,666934.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,33,4370.0,1.0,553700.0,38.0,0.0,4.0,105424.0,3101.0,1.0,0.0,0.0,1.0,666640.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,34,4371.0,1.0,554012.0,39.0,0.0,4.0,105424.0,3101.0,0.0,0.0,0.0,1.0,666953.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,35,4376.0,1.0,684799.0,41.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,797750.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,37,4378.0,1.0,1801738.0,43.0,0.0,4.0,105424.0,3101.0,1.0,2.0,2.0,2.0,1914696.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,38,4380.0,1.0,554011.0,44.0,0.0,4.0,105424.0,3101.0,0.0,1.0,0.0,0.0,666966.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,39,4390.0,1.0,554010.0,45.0,0.0,4.0,105424.0,3101.0,2.0,1.0,1.0,1.0,666980.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,40,4400.0,1.0,554009.0,46.0,0.0,4.0,105424.0,3101.0,1.0,1.0,1.0,1.0,666989.0
+Net Income|Net Operating Income|Revenue|Other Income,Layer 1 Item,42,4430.0,1.0,554004.0,51.0,0.0,4.0,105424.0,3101.0,1.0,0.0,0.0,0.0,667016.0
+31011.210000000006,Layer 1 Item,43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3101 Woodland Mews,Layer 1 Item,45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Operating Expenses,Layer 1 Item,47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Payroll,Layer 1 Item,48,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,49,5000.0,1.0,554002.0,0.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,667539.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,52,5100.0,1.0,553998.0,4.0,0.0,5.0,105426.0,3101.0,0.0,1.0,1.0,1.0,667638.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,53,5350.0,1.0,553993.0,9.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,667889.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,54,5360.0,1.0,553992.0,10.0,0.0,5.0,105426.0,3101.0,1.0,0.0,1.0,1.0,667898.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,55,5400.0,1.0,553991.0,11.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,667939.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,59,5500.0,1.0,553986.0,16.0,0.0,5.0,105426.0,3101.0,1.0,0.0,1.0,0.0,668037.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,60,5510.0,1.0,553985.0,17.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,668049.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,61,5520.0,1.0,553984.0,18.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,668059.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,63,5550.0,1.0,553981.0,21.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,668089.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,65,5580.0,1.0,553978.0,24.0,0.0,5.0,105426.0,3101.0,0.0,1.0,0.0,1.0,668117.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,66,5590.0,1.0,553977.0,25.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,668129.0
+Net Income|Net Operating Income|Operating Expenses|Payroll,Layer 1 Item,67,5602.0,1.0,553975.0,27.0,0.0,5.0,105426.0,3101.0,1.0,1.0,1.0,1.0,668141.0
+24676.709999999995,Layer 1 Item,68,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maintenance,Layer 1 Item,70,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,71,6000.0,1.0,553974.0,0.0,0.0,5.0,105427.0,3101.0,1.0,1.0,2.0,1.0,668513.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,76,6030.0,1.0,553969.0,6.0,0.0,5.0,105427.0,3101.0,1.0,2.0,2.0,1.0,668545.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,78,6040.0,1.0,553967.0,8.0,0.0,5.0,105427.0,3101.0,2.0,2.0,0.0,2.0,668555.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,80,6051.0,1.0,553965.0,10.0,0.0,5.0,105427.0,3101.0,2.0,1.0,1.0,1.0,668565.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,82,6090.0,1.0,553960.0,15.0,0.0,5.0,105427.0,3101.0,1.0,0.0,0.0,0.0,668600.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,84,6110.0,1.0,553958.0,17.0,0.0,5.0,105427.0,3101.0,0.0,0.0,0.0,0.0,668619.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,86,6150.0,1.0,553954.0,21.0,0.0,5.0,105427.0,3101.0,1.0,2.0,0.0,0.0,668662.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,87,6160.0,1.0,553953.0,22.0,0.0,5.0,105427.0,3101.0,1.0,0.0,0.0,1.0,668671.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,89,6170.0,1.0,553951.0,24.0,0.0,5.0,105427.0,3101.0,1.0,2.0,0.0,0.0,668682.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,91,6200.0,1.0,553949.0,26.0,0.0,5.0,105427.0,3101.0,0.0,1.0,1.0,0.0,668711.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,93,6221.0,1.0,553946.0,29.0,0.0,5.0,105427.0,3101.0,0.0,1.0,2.0,0.0,668733.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,95,6240.0,1.0,553944.0,31.0,0.0,5.0,105427.0,3101.0,0.0,1.0,0.0,1.0,668751.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,98,6250.0,1.0,553941.0,34.0,0.0,5.0,105427.0,3101.0,1.0,1.0,2.0,1.0,668764.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,99,6260.0,1.0,553939.0,36.0,0.0,5.0,105427.0,3101.0,1.0,1.0,1.0,2.0,668774.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,104,6290.0,1.0,553934.0,41.0,0.0,5.0,105427.0,3101.0,0.0,0.0,2.0,1.0,668802.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,106,6320.0,1.0,553931.0,44.0,0.0,5.0,105427.0,3101.0,1.0,2.0,2.0,2.0,668836.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,108,6340.0,1.0,553929.0,46.0,0.0,5.0,105427.0,3101.0,1.0,1.0,1.0,1.0,668853.0
+Net Income|Net Operating Income|Operating Expenses|Maintenance,Layer 1 Item,110,6400.0,1.0,553927.0,48.0,0.0,5.0,105427.0,3101.0,1.0,0.0,0.0,0.0,668910.0
+122260.05000000002,Layer 1 Item,114,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Utilities,Layer 1 Item,116,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Utilities,Layer 1 Item,117,6800.0,1.0,553913.0,0.0,0.0,5.0,105502.0,3101.0,1.0,2.0,1.0,1.0,669327.0
+Net Income|Net Operating Income|Operating Expenses|Utilities,Layer 1 Item,118,6820.0,1.0,553911.0,2.0,0.0,5.0,105502.0,3101.0,1.0,2.0,1.0,1.0,669347.0
+Net Income|Net Operating Income|Operating Expenses|Utilities,Layer 1 Item,120,6830.0,1.0,553909.0,4.0,0.0,5.0,105502.0,3101.0,1.0,2.0,1.0,1.0,669357.0
+Net Income|Net Operating Income|Operating Expenses|Utilities,Layer 1 Item,122,6840.0,1.0,553907.0,6.0,0.0,5.0,105502.0,3101.0,2.0,2.0,1.0,2.0,669369.0
+Net Income|Net Operating Income|Operating Expenses|Utilities,Layer 1 Item,123,6860.0,1.0,553905.0,8.0,0.0,5.0,105502.0,3101.0,1.0,2.0,2.0,1.0,669388.0
+16733.489999999998,Layer 1 Item,126,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other Property Services,Layer 1 Item,128,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Other Property Services,Layer 1 Item,129,6900.0,1.0,553902.0,0.0,0.0,5.0,105503.0,3101.0,1.0,1.0,1.0,2.0,669417.0
+Other Property Services,Layer 1 Item,130,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marketing,Layer 1 Item,132,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,133,7000.0,1.0,553900.0,0.0,0.0,5.0,105504.0,3101.0,2.0,1.0,1.0,1.0,669516.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,136,7060.0,1.0,553894.0,6.0,0.0,5.0,105504.0,3101.0,0.0,1.0,0.0,1.0,669573.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,137,7070.0,1.0,553893.0,7.0,0.0,5.0,105504.0,3101.0,1.0,0.0,1.0,0.0,669583.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,138,7080.0,1.0,553892.0,8.0,0.0,5.0,105504.0,3101.0,2.0,2.0,2.0,2.0,669599.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,139,7110.0,1.0,553889.0,11.0,0.0,5.0,105504.0,3101.0,1.0,1.0,1.0,1.0,669625.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,142,7140.0,1.0,553886.0,14.0,0.0,5.0,105504.0,3101.0,0.0,0.0,0.0,0.0,669651.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,144,7161.0,1.0,1804118.0,17.0,0.0,5.0,105504.0,3101.0,1.0,1.0,1.0,1.0,1919911.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,145,7190.0,1.0,553881.0,20.0,0.0,5.0,105504.0,3101.0,1.0,2.0,0.0,1.0,669706.0
+Net Income|Net Operating Income|Operating Expenses|Marketing,Layer 1 Item,146,7200.0,1.0,553880.0,21.0,0.0,5.0,105504.0,3101.0,1.0,1.0,1.0,1.0,669716.0
+14725.630000000001,Layer 1 Item,147,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+General and Administrative,Layer 1 Item,149,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,150,8000.0,1.0,553877.0,0.0,0.0,5.0,105505.0,3101.0,2.0,1.0,1.0,1.0,670494.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,152,8020.0,1.0,553697.0,2.0,0.0,5.0,105505.0,3101.0,0.0,0.0,1.0,1.0,670333.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,153,8050.0,1.0,553873.0,5.0,0.0,5.0,105505.0,3101.0,0.0,0.0,1.0,0.0,670541.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,154,8060.0,1.0,553872.0,6.0,0.0,5.0,105505.0,3101.0,0.0,0.0,1.0,0.0,670551.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,155,8090.0,1.0,553869.0,9.0,0.0,5.0,105505.0,3101.0,1.0,1.0,2.0,2.0,670586.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,158,8110.0,1.0,553865.0,13.0,0.0,5.0,105505.0,3101.0,1.0,2.0,1.0,2.0,670606.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,159,8130.0,1.0,553863.0,15.0,0.0,5.0,105505.0,3101.0,2.0,2.0,1.0,1.0,670626.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,160,8140.0,1.0,553862.0,16.0,0.0,5.0,105505.0,3101.0,1.0,2.0,1.0,1.0,670635.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,161,8150.0,1.0,553861.0,17.0,0.0,5.0,105505.0,3101.0,1.0,1.0,1.0,0.0,670643.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,163,8170.0,1.0,553859.0,19.0,0.0,5.0,105505.0,3101.0,0.0,1.0,0.0,0.0,670661.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,165,8201.0,1.0,553855.0,23.0,0.0,5.0,105505.0,3101.0,1.0,0.0,1.0,0.0,670693.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,168,8250.0,1.0,553849.0,29.0,0.0,5.0,105505.0,3101.0,2.0,2.0,2.0,2.0,670748.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,170,8270.0,1.0,553847.0,31.0,0.0,5.0,105505.0,3101.0,2.0,1.0,2.0,2.0,670767.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,172,8290.0,1.0,553845.0,33.0,0.0,5.0,105505.0,3101.0,1.0,1.0,1.0,1.0,670784.0
+Net Income|Net Operating Income|Operating Expenses|General and Administrative,Layer 1 Item,174,8301.0,1.0,553843.0,35.0,0.0,5.0,105505.0,3101.0,0.0,0.0,1.0,0.0,670792.0
+General and Administrative,Layer 1 Item,178,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Management Fees,Layer 1 Item,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Management Fees,Layer 1 Item,181,8500.0,1.0,553710.0,0.0,0.0,5.0,105506.0,3101.0,1.0,1.0,1.0,1.0,670827.0
+3101 Woodland Mews,Layer 1 Item,182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Insurance,Layer 1 Item,184,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Insurance,Layer 1 Item,185,8602.0,1.0,553836.0,2.0,0.0,5.0,105507.0,3101.0,1.0,1.0,1.0,1.0,671058.0
+3101 Woodland Mews,Layer 1 Item,186,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Property Taxes,Layer 1 Item,188,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Property Taxes,Layer 1 Item,189,8700.0,1.0,553834.0,0.0,0.0,5.0,105508.0,3101.0,1.0,1.0,1.0,1.0,671153.0
+60125.479999999996,Layer 1 Item,191,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bad Debt,Layer 1 Item,193,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Bad Debt,Layer 1 Item,194,8800.0,1.0,553832.0,0.0,0.0,5.0,105509.0,3101.0,1.0,2.0,2.0,2.0,671255.0
+3101 Woodland Mews,Layer 1 Item,196,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other Operating Expenses,Layer 1 Item,198,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Income|Net Operating Income|Operating Expenses|Other Operating Expenses,Layer 1 Item,200,8942.0,1.0,553823.0,6.0,0.0,5.0,105510.0,3101.0,0.0,0.0,0.0,0.0,671388.0
+Other Operating Expenses,Layer 1 Item,204,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Operating Expenses,Layer 1 Item,206,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Net Operating Income,Layer 1 Item,208,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
