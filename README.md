@@ -22,3 +22,17 @@ This engine provides a **Format-Agnostic** solution to extract only **Layer 1 (G
 * **Pandas & NumPy:** Leveraged for high-speed matrix manipulation and data cleaning.
 * **Pathlib:** Utilized for robust, cross-platform directory and file handling.
 * **Streamlit (Optional):** Integrated support for a front-end drag-and-drop UI.
+
+## 📂 Repository Structure
+
+```text
+/AXiM_T12_Project
+│── notebooks/
+│   └── T12_Extractor.ipynb   # Interactive breakdown of the algorithm
+│── src/
+│   └── main.py               # Production-ready extraction script
+│── data/
+│   ├── input/                # Place raw T12 exports (XLSX/CSV) here
+│   └── output/               # Processed Layer 1 CSVs with Audit Trails
+│── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
